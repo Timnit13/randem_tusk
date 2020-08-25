@@ -5,3 +5,6 @@ git
 java
 python
 C#
+
+SQL
+C++
